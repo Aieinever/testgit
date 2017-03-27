@@ -8,4 +8,4 @@ this software makes me fell so good.
 a developer should learn how to use it.
 
 <part 4>
-i'm practicing it
+i'm practicing it and it's not hard.
