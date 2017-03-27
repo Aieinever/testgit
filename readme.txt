@@ -3,3 +3,6 @@ is the version control tool.
 
 <part 2>
 this software makes me fell so good.
+
+<part3>
+a developer should learn how to use it.
