@@ -15,3 +15,6 @@ i'm practicing it and it's not hard.
 
 <part6>
 回顾一下整套体系
+
+<part7>
+branch b1的使用
