@@ -12,3 +12,6 @@ i'm practicing it and it's not hard.
 
 <part5>
 将暂存区的修改撤回使用 git reset head file 指令。
+
+<part6>
+回顾一下整套体系
