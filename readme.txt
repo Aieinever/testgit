@@ -18,3 +18,6 @@ i'm practicing it and it's not hard.
 
 <part7>
 branch b1的使用
+
+<part8>
+一次性推送所有分支到github（b1）
