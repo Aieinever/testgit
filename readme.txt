@@ -14,7 +14,7 @@ i'm practicing it and it's not hard.
 将暂存区的修改撤回使用 git reset head file 指令。
 
 <part6>
-回顾一下整套体系
+回顾一。。。。。（这是b2第二次修改）
 
 <part8>
 一步提交所有分支（master）
